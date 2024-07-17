@@ -25,3 +25,5 @@
 |24.07.17|PGS|수박수박수박수박수박수?|lv.1|```수학```|
 |24.07.17|PGS|내적|lv.1|```수학```|
 |24.07.17|PGS|문자열 내림차순으로 배치하기|lv.1|```문자열```|
+
+<img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" class="css-1vnxcg0">
